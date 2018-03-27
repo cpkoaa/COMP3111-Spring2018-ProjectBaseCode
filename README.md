@@ -2,6 +2,10 @@
 
 This is the modified README for the testing_branch
 
+pkyipab, teamleader
+tmttm
+cpkoaa
+
 [This README file in a website format](https://hkpeterpeter.github.io/COMP3111-Spring2018-ProjectBaseCode/)
 
 Quick reference links:
